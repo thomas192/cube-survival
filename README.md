@@ -1,6 +1,6 @@
 ## About the game
 
-Cube Survival is 3rd person game where the player must catch cubes to survive. It was developped in C++ with Unreal Engine. I lost the code but I made a cool video about it.
+Cube Survival is 3rd person game where the player must catch cubes to survive. It was developped in C++ with Unreal Engine.
 
 ## Teaser and demonstration
 
